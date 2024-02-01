@@ -1,3 +1,5 @@
+https://sparkgalaxy.gitee.io/posts/c661d065857e/
+https://sparkgalaxy.gitee.io/about/index.html
 https://sparkgalaxy.gitee.io/Gallery/scenery/index.html
 https://sparkgalaxy.gitee.io/posts/74a77c6abfed/
 https://sparkgalaxy.gitee.io/posts/378aefd1aae4/
@@ -11,7 +13,6 @@ https://sparkgalaxy.gitee.io/website/index.html
 https://sparkgalaxy.gitee.io/posts/153a7b00a80e/
 https://sparkgalaxy.gitee.io/movies/index.html
 https://sparkgalaxy.gitee.io/link/index.html
-https://sparkgalaxy.gitee.io/about/index.html
 https://sparkgalaxy.gitee.io/tags/index.html
 https://sparkgalaxy.gitee.io/categories/index.html
 https://sparkgalaxy.gitee.io/posts/06aa2b5650ce/
@@ -21,6 +22,7 @@ https://sparkgalaxy.gitee.io/tags/Hexo/
 https://sparkgalaxy.gitee.io/tags/Vue/
 https://sparkgalaxy.gitee.io/tags/Vue-CLI/
 https://sparkgalaxy.gitee.io/tags/%E8%85%BE%E8%AE%AF%E4%BA%91%E5%BC%80%E5%8F%91/
+https://sparkgalaxy.gitee.io/tags/React/
 https://sparkgalaxy.gitee.io/categories/%E7%AE%97%E6%B3%95%E7%BB%83%E4%B9%A0/
 https://sparkgalaxy.gitee.io/categories/Hexo/
 https://sparkgalaxy.gitee.io/categories/Vue/
@@ -29,3 +31,4 @@ https://sparkgalaxy.gitee.io/categories/%E7%AE%97%E6%B3%95%E7%BB%83%E4%B9%A0/%E9
 https://sparkgalaxy.gitee.io/categories/%E7%AE%97%E6%B3%95%E7%BB%83%E4%B9%A0/%E6%95%B0%E7%BB%84/
 https://sparkgalaxy.gitee.io/categories/%E8%85%BE%E8%AE%AF%E4%BA%91%E5%BC%80%E5%8F%91/
 https://sparkgalaxy.gitee.io/categories/%E7%AE%97%E6%B3%95%E7%BB%83%E4%B9%A0/%E6%95%B0%E7%BB%84/%E7%AE%97%E6%B3%95%E9%9A%BE%E5%BA%A6%EF%BC%9A%E7%AE%80%E5%8D%95/
+https://sparkgalaxy.gitee.io/categories/React/
